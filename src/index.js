@@ -15,6 +15,6 @@ import ProfileCard from './chapter_13/ProfileCard';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <Calculator/>
+  <WelcomeDialog/>
 );
 reportWebVitals();
